@@ -109,3 +109,6 @@ If StealerGo was executed on the machine, you should assume credentials and secr
 ## Disclaimer
 
 Use this only on systems you own or have permission to clean.
+
+
+```DISCORD @ CS38 FOR INQUIRIES ```
