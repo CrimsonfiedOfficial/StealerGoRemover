@@ -1,6 +1,8 @@
 # stealergoRemover
 ## hi star this
 thx chatgpt for the readme and kinda forrr some parts of the code cus idk im an idiot thx
+
+
 `stealergoRemover.py` is a Windows cleanup script made to remove the StealerGo RAT and its common persistence/artifacts based on the malware's source code.
 
 It checks the exact names, install paths, registry values, scheduled tasks, startup links, and dropped helper DLLs used by StealerGo. It also has a conservative safety check for the `System32` DLLs, so it only removes them when the filename and exact embedded size match what the loader drops.
